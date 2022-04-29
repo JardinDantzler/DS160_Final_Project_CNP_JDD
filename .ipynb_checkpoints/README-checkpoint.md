@@ -1,6 +1,6 @@
 # UCI_CoverType_Machine_Learning
 
-Project using supervised machine learning techniques from sklearn to work on the classification of the forest coverage type based on data given.
+Project using supervised machine learning techniques from sklearn to predict forest coverage type based on data on soil samples.
 
 The main dataset exists on the UCI machine learning repository: [https://archive.ics.uci.edu/ml/datasets/covertype]
 
