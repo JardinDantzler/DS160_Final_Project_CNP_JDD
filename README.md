@@ -1,16 +1,14 @@
 # UCI_CoverType_Machine_Learning
 
-Project using supervised machine learning techniques from sklearn to work on the classification of the forest coverage type based on data given.
+Project using supervised machine learning techniques from sklearn to work on the classification nad prediction of the forest coverage type based on data given.
 
-The main dataset exists on the UCI machine learning repository: [https://archive.ics.uci.edu/ml/datasets/covertype]
-
-This project uses a small subset of that dataset, which was featured in a Kaggle competition: https://www.kaggle.com/c/forest-cover-type-prediction
+The dataset exists on the UCI machine learning repository: [https://archive.ics.uci.edu/ml/datasets/covertype]
 
 
 
 Machine learning techniques used:
-  - K-Nearest-Neighbors
-  - Decision trees
+  - Support Vector Machine
+  - Random Forest Classifer
 
 Primary python libraries used:
   - Visualizations:
