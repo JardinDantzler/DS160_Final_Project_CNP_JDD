@@ -7,7 +7,8 @@ The dataset exists on the UCI machine learning repository: [https://archive.ics.
 
 
 Machine learning techniques used:
-  - Support Vector Machine
+  - Support Vector Machine 
+  - Decision Tree
   - Random Forest Classifer
 
 Primary python libraries used:
